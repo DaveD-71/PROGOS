@@ -2,11 +2,12 @@
 
 ## Current State
 
-- Last updated: 2026-07-01T17:40:57.9900432+09:00
+- Last updated: 2026-07-02T10:27:34.3572475+09:00
 - Status: active
 - Workspace: `\\prod-fs-gen01\WorkFile\04_在宅勤務\★グローバルビジネス推進部（在宅）\ランゲージサービス課\Dobson（在宅）\04. Projects\code\PROGOS`
-- Repository: Git repository on branch `main`; no commits and no remotes were present at bootstrap.
-- Observed contents: PROGOS result PDFs and an Aozawa screenshot set, all already staged before bootstrap.
+- Repository: Git repository on branch `main`, tracking `origin/main`; after fetch, local `main` is one commit ahead and zero behind.
+- Bootstrap commit: local commit `740beac` contains the five memory scaffold files and has remote commit `b3f3c2a` as its parent.
+- Observed contents: PROGOS result PDFs and an Aozawa screenshot set were already present before bootstrap.
 
 ## Durable Decisions And Constraints
 
@@ -14,7 +15,10 @@
 - Preserve pre-existing staged PDFs, screenshots, and archive files unless the user explicitly requests changes.
 - Use literal UNC paths for this workspace in memory and troubleshooting notes.
 - Treat `C:\Users\d-dobson\.codex\memories\user-learning.md` as the machine-local user-memory source and `user-learning-mirror.md` as its repository-portable mirror.
-- Perform remote sync checks only when a Git remote and upstream branch exist.
+- Prefer fetch and ahead/behind inspection before any pull; do not push or rewrite the bootstrap commit without explicit user direction.
+- CEFR report matching must evaluate workbook taxonomy as well as wording and level. Retain a side-by-side PROGOS-versus-official comparison table for every competence, then state whether the PROGOS comment matches the official CEFR descriptor for the named competence and reported level. When No, also show the closest match, its workbook level, a differing competence scale when applicable, the descriptor with its cell reference appended in parentheses, and the match note as the final row. Current decisions: Range and Interaction are No; Accuracy, Fluency, Coherence, and Phonology are Yes.
+- The PROGOS Overall Assessment is a report summary, not an individual CEFR competence or scale represented in `CEFR Descriptors_en.xlsx`. Do not assign official or potential workbook matches to it; CEFR matching applies only to the six individual competence sections.
+- Preserve source-language order when formatting bilingual PROGOS content. Japanese-origin report statements use Japanese-left/English-right tables. In retained PROGOS-versus-CEFR comparison tables, label all four language blocks: PROGOS Japanese as Original text, PROGOS English as Translated text, CEFR Japanese as Translated text, and CEFR English as Original text. Model example sentences are English originals in the PDF followed by direct Japanese translations; format those examples English-left/Japanese-right without adding outer brackets around the Japanese translation.
 
 ## Active Goals
 
