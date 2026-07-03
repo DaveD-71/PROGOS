@@ -1,0 +1,1721 @@
+{
+  "duration": null,
+  "segments": [
+    {
+      "id": "seg_0",
+      "end": 2.0479999999999996,
+      "speaker": "A",
+      "start": 0.148,
+      "text": " I turn that on and start recording here.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_1",
+      "end": 5.247999999999999,
+      "speaker": "A",
+      "start": 3.4979999999999998,
+      "text": " But you you don't have to talk to that,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_2",
+      "end": 5.4479999999999995,
+      "speaker": "B",
+      "start": 5.247999999999999,
+      "text": " Okay.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_3",
+      "end": 6.598,
+      "speaker": "A",
+      "start": 5.4479999999999995,
+      "text": " it should pick you up.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_4",
+      "end": 6.748,
+      "speaker": "B",
+      "start": 6.598,
+      "text": " Hmm.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_5",
+      "end": 9.598000000000003,
+      "speaker": "B",
+      "start": 8.548000000000002,
+      "text": " I turn that.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_6",
+      "end": 12.798000000000004,
+      "speaker": "A",
+      "start": 11.398000000000003,
+      "text": " Just to stop the sound.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_7",
+      "end": 13.998000000000003,
+      "speaker": "B",
+      "start": 13.798000000000004,
+      "text": " Okay.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_8",
+      "end": 18.798000000000002,
+      "speaker": "A",
+      "start": 15.648000000000003,
+      "text": " Okay, whenever you're ready, please go ahead you can begin.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_9",
+      "end": 19.448,
+      "speaker": "B",
+      "start": 18.798000000000002,
+      "text": " Okay.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_10",
+      "end": 24.148,
+      "speaker": "B",
+      "start": 22.198,
+      "text": " Alright, one two three four five.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_11",
+      "end": 30.482,
+      "speaker": "C",
+      "start": 29.332,
+      "text": " I have to",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_12",
+      "end": 33.982,
+      "speaker": "C",
+      "start": 32.132,
+      "text": " do my mic microphone test.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_13",
+      "end": 37.082,
+      "speaker": "A",
+      "start": 35.032,
+      "text": " Ah, yeah, they got this environment set up thing.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_14",
+      "end": 38.132000000000005,
+      "speaker": "C",
+      "start": 37.082,
+      "text": " Ah ah ah.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_15",
+      "end": 50.032,
+      "speaker": "A",
+      "start": 48.832,
+      "text": " How long does it take a company to do?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_16",
+      "end": 51.282,
+      "speaker": "C",
+      "start": 50.982,
+      "text": " Yeah.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_17",
+      "end": 52.582,
+      "speaker": "C",
+      "start": 52.382000000000005,
+      "text": " Will you?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_18",
+      "end": 58.589999999999996,
+      "speaker": "A",
+      "start": 57.94,
+      "text": " Can you you just can't",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_19",
+      "end": 58.839999999999996,
+      "speaker": "C",
+      "start": 58.589999999999996,
+      "text": " a moment.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_20",
+      "end": 59.589999999999996,
+      "speaker": "A",
+      "start": 58.839999999999996,
+      "text": " click the button?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_21",
+      "end": 61.089999999999996,
+      "speaker": "C",
+      "start": 60.239999999999995,
+      "text": " I can't.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_22",
+      "end": 61.839999999999996,
+      "speaker": "A",
+      "start": 61.489999999999995,
+      "text": " No.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_23",
+      "end": 62.489999999999995,
+      "speaker": "C",
+      "start": 61.839999999999996,
+      "text": " What are you?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_24",
+      "end": 66.34,
+      "speaker": "A",
+      "start": 63.44,
+      "text": " Well maybe it thinks maybe it was all in one.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_25",
+      "end": 67.89,
+      "speaker": "C",
+      "start": 67.24,
+      "text": " Yeah.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_26",
+      "end": 69.99,
+      "speaker": "C",
+      "start": 69.64,
+      "text": " What of?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_27",
+      "end": 74.14,
+      "speaker": "A",
+      "start": 72.49,
+      "text": " But we didn't hear anything, did we?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_28",
+      "end": 75.14,
+      "speaker": "C",
+      "start": 74.89,
+      "text": " No.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_29",
+      "end": 76.64,
+      "speaker": "A",
+      "start": 75.14,
+      "text": " Why don't you just refresh the screen?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_30",
+      "end": 77.19,
+      "speaker": "C",
+      "start": 76.84,
+      "text": " Alright.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_31",
+      "end": 78.03999999999999,
+      "speaker": "C",
+      "start": 77.84,
+      "text": " Ding.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_32",
+      "end": 83.78999999999999,
+      "speaker": "A",
+      "start": 81.84,
+      "text": " Oh I heard that sound. Did you hear that",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_33",
+      "end": 83.84,
+      "speaker": "C",
+      "start": 83.78999999999999,
+      "text": " Yes.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_34",
+      "end": 84.69,
+      "speaker": "A",
+      "start": 83.84,
+      "text": " sound? Yeah, okay.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_35",
+      "end": 85.24,
+      "speaker": "C",
+      "start": 84.69,
+      "text": " Konnichiwa.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_36",
+      "end": 89.182,
+      "speaker": "C",
+      "start": 88.532,
+      "text": " Oh, okay.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_37",
+      "end": 90.38199999999999,
+      "speaker": "B",
+      "start": 90.13199999999999,
+      "text": " yeah.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_38",
+      "end": 94.232,
+      "speaker": "B",
+      "start": 93.432,
+      "text": " Oh that that was",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_39",
+      "end": 94.282,
+      "speaker": "C",
+      "start": 94.232,
+      "text": " And",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_40",
+      "end": 94.432,
+      "speaker": "B",
+      "start": 94.282,
+      "text": " you.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_41",
+      "end": 95.182,
+      "speaker": "C",
+      "start": 94.432,
+      "text": " I can start it.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_42",
+      "end": 95.482,
+      "speaker": "C",
+      "start": 95.332,
+      "text": " Oops.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_43",
+      "end": 98.732,
+      "speaker": "B",
+      "start": 95.482,
+      "text": " Okay, that's a slow recording, but okay. Yep.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_44",
+      "end": 100.732,
+      "speaker": "C",
+      "start": 100.082,
+      "text": " There you go.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_45",
+      "end": 102.532,
+      "speaker": "D",
+      "start": 100.882,
+      "text": " Part one, interview.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_46",
+      "end": 105.532,
+      "speaker": "D",
+      "start": 103.282,
+      "text": " You will be asked ten questions.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_47",
+      "end": 109.132,
+      "speaker": "D",
+      "start": 106.132,
+      "text": " Listen carefully and answer each question.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_48",
+      "end": 112.382,
+      "speaker": "D",
+      "start": 109.632,
+      "text": " You have twenty seconds for speaking time.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_49",
+      "end": 114.932,
+      "speaker": "D",
+      "start": 113.232,
+      "text": " What sports do you like?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_50",
+      "end": 120.69999999999999,
+      "speaker": "E",
+      "start": 118.1,
+      "text": " I like playing basketball and baseball,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_51",
+      "end": 124.3,
+      "speaker": "E",
+      "start": 120.89999999999999,
+      "text": " but I recently didn't do both,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_52",
+      "end": 128.6,
+      "speaker": "E",
+      "start": 124.39999999999999,
+      "text": " so I want to try it when I have a chance.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_53",
+      "end": 130.85,
+      "speaker": "E",
+      "start": 129.54999999999998,
+      "text": " When I was a kid,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_54",
+      "end": 134.7,
+      "speaker": "E",
+      "start": 130.9,
+      "text": " I played basketball with my friends at the park.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_55",
+      "end": 135.65,
+      "speaker": "E",
+      "start": 134.8,
+      "text": " That's fun.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_56",
+      "end": 140.2,
+      "speaker": "D",
+      "start": 138.3,
+      "text": " What languages do you speak?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_57",
+      "end": 145.6,
+      "speaker": "E",
+      "start": 143.25,
+      "text": " I usually speak Japanese and English.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_58",
+      "end": 158.832,
+      "speaker": "E",
+      "start": 146.932,
+      "text": " When I doing job, sometimes I have to talk with my colleague with English, so I'm trying to improve my English skill.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_59",
+      "end": 165.78199999999998,
+      "speaker": "D",
+      "start": 163.682,
+      "text": " How often do you write emails at work?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_60",
+      "end": 170.082,
+      "speaker": "E",
+      "start": 168.182,
+      "text": " I always write emails.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_61",
+      "end": 174.082,
+      "speaker": "E",
+      "start": 170.682,
+      "text": " I usually write 10 or...",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_62",
+      "end": 183.048,
+      "speaker": "E",
+      "start": 174.548,
+      "text": " 20 emails each day to my client and to my boss or to my colleague and",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_63",
+      "end": 187.048,
+      "speaker": "E",
+      "start": 184.448,
+      "text": " I write it in English and Japanese.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_64",
+      "end": 192.248,
+      "speaker": "D",
+      "start": 189.698,
+      "text": " What do you like and dislike about meetings?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_65",
+      "end": 201.398,
+      "speaker": "E",
+      "start": 197.948,
+      "text": " I am sorry I couldn't catch the question.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_66",
+      "end": 205.424,
+      "speaker": "E",
+      "start": 203.124,
+      "text": " So I'm gonna skip it.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_67",
+      "end": 218.474,
+      "speaker": "D",
+      "start": 215.724,
+      "text": " How will your tasks different now from two years ago?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_68",
+      "end": 223.874,
+      "speaker": "E",
+      "start": 222.624,
+      "text": " Two years ago.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_69",
+      "end": 225.724,
+      "speaker": "E",
+      "start": 225.07399999999998,
+      "text": " Hmm.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_70",
+      "end": 229.374,
+      "speaker": "E",
+      "start": 228.474,
+      "text": " Sorry, I...",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_71",
+      "end": 232.78,
+      "speaker": "E",
+      "start": 229.78,
+      "text": " didn't understand what you said.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_72",
+      "end": 245.48,
+      "speaker": "D",
+      "start": 242.03,
+      "text": " What advice would you give to someone who wants to do well in a job interview?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_73",
+      "end": 249.68,
+      "speaker": "E",
+      "start": 249.08,
+      "text": " Hmm.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_74",
+      "end": 256.08,
+      "speaker": "E",
+      "start": 252.98000000000002,
+      "text": " What I give as advice is",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_75",
+      "end": 259.544,
+      "speaker": "E",
+      "start": 257.844,
+      "text": " Hmm just",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_76",
+      "end": 265.394,
+      "speaker": "E",
+      "start": 261.24399999999997,
+      "text": " relax and talk about yourself next",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_77",
+      "end": 271.344,
+      "speaker": "D",
+      "start": 268.644,
+      "text": " How do you imagine your company this time next year?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_78",
+      "end": 283.944,
+      "speaker": "E",
+      "start": 274.344,
+      "text": " year our company mmm I hope the sales is getting better and",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_79",
+      "end": 291.154,
+      "speaker": "E",
+      "start": 286.804,
+      "text": " Or Walker is coming to my office.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_80",
+      "end": 300.404,
+      "speaker": "D",
+      "start": 296.25399999999996,
+      "text": " Explain the steps you take when making an important decision at work.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_81",
+      "end": 310.154,
+      "speaker": "E",
+      "start": 307.404,
+      "text": " It's hard to explain. I'm",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_82",
+      "end": 313.20399999999995,
+      "speaker": "E",
+      "start": 312.75399999999996,
+      "text": " doing.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_83",
+      "end": 319.966,
+      "speaker": "E",
+      "start": 314.516,
+      "text": " You know, basic stuff and improve my skill.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_84",
+      "end": 333.766,
+      "speaker": "D",
+      "start": 329.11600000000004,
+      "text": " Do you prefer a job with specific tasks or a job that is more flexible?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_85",
+      "end": 336.266,
+      "speaker": "D",
+      "start": 334.466,
+      "text": " Explain in detail.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_86",
+      "end": 341.416,
+      "speaker": "E",
+      "start": 340.56600000000003,
+      "text": " I prefer",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_87",
+      "end": 356.576,
+      "speaker": "E",
+      "start": 341.326,
+      "text": " flexible job you know if I do same things all the time I'm getting bored and I can't feel my skills getting improved",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_88",
+      "end": 369.726,
+      "speaker": "D",
+      "start": 366.67600000000004,
+      "text": " Give one reason for low motivation at work.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_89",
+      "end": 371.928,
+      "speaker": "D",
+      "start": 370.228,
+      "text": " What could be done about this?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_90",
+      "end": 377.028,
+      "speaker": "E",
+      "start": 376.478,
+      "text": " Money.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_91",
+      "end": 389.82800000000003,
+      "speaker": "E",
+      "start": 384.378,
+      "text": " I have a good co-worker and my boss is really good,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_92",
+      "end": 393.32800000000003,
+      "speaker": "E",
+      "start": 389.878,
+      "text": " so these people are my motivation.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_93",
+      "end": 413.126,
+      "speaker": "D",
+      "start": 411.476,
+      "text": " Repeat eight sentences.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_94",
+      "end": 415.376,
+      "speaker": "D",
+      "start": 413.976,
+      "text": " Read each sentence aloud.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_95",
+      "end": 419.276,
+      "speaker": "D",
+      "start": 416.076,
+      "text": " You have ten seconds to read each sentence.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_96",
+      "end": 422.126,
+      "speaker": "D",
+      "start": 420.576,
+      "text": " Please start now.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_97",
+      "end": 431.676,
+      "speaker": "E",
+      "start": 426.776,
+      "text": " The technological device they use here is absolutely cutting edge.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_98",
+      "end": 439.126,
+      "speaker": "D",
+      "start": 437.726,
+      "text": " Please start now.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_99",
+      "end": 447.344,
+      "speaker": "E",
+      "start": 442.644,
+      "text": " Can you believe that millions of their self-help books are purchased by each year?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_100",
+      "end": 457.194,
+      "speaker": "D",
+      "start": 455.794,
+      "text": " Please start now.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_101",
+      "end": 467.694,
+      "speaker": "E",
+      "start": 460.494,
+      "text": " The problem with our meeting here is they don't end with action plans or final agreements.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_102",
+      "end": 473.902,
+      "speaker": "D",
+      "start": 472.852,
+      "text": " Please start now.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_103",
+      "end": 481.25199999999995,
+      "speaker": "E",
+      "start": 477.102,
+      "text": " Our employees think that our marketing strategies are not working.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_104",
+      "end": 491.452,
+      "speaker": "D",
+      "start": 489.902,
+      "text": " Please start now.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_105",
+      "end": 499.30199999999996,
+      "speaker": "E",
+      "start": 494.80199999999996,
+      "text": " Until when can we request for changes to our urgent orders?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_106",
+      "end": 507.57599999999996,
+      "speaker": "D",
+      "start": 506.676,
+      "text": " Please start now.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_107",
+      "end": 516.576,
+      "speaker": "E",
+      "start": 511.376,
+      "text": " We will shift our production to somewhere in Southeast Asia this year.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_108",
+      "end": 536.626,
+      "speaker": "E",
+      "start": 530.576,
+      "text": " This product upgrade would make us the country's leading information tech company.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_109",
+      "end": 540.2579999999999,
+      "speaker": "D",
+      "start": 538.708,
+      "text": " Please start now.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_110",
+      "end": 549.0079999999999,
+      "speaker": "E",
+      "start": 544.108,
+      "text": " Could we sell their existing product with a twenty percent discount on Thursday?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_111",
+      "end": 556.7579999999999,
+      "speaker": "D",
+      "start": 554.708,
+      "text": " This is the end of part two.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_112",
+      "end": 558.608,
+      "speaker": "D",
+      "start": 557.5079999999999,
+      "text": " Part three,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_113",
+      "end": 559.708,
+      "speaker": "D",
+      "start": 559.0079999999999,
+      "text": " presentation.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_114",
+      "end": 562.7579999999999,
+      "speaker": "D",
+      "start": 560.658,
+      "text": " You will talk about a topic.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_115",
+      "end": 565.458,
+      "speaker": "D",
+      "start": 563.5079999999999,
+      "text": " Give as many details as you can.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_116",
+      "end": 570.7779999999999,
+      "speaker": "D",
+      "start": 566.228,
+      "text": " You have forty seconds to prepare and sixty seconds for speaking time.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_117",
+      "end": 571.2779999999999,
+      "speaker": "E",
+      "start": 570.828,
+      "text": " Yeee!",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_118",
+      "end": 578.228,
+      "speaker": "D",
+      "start": 571.478,
+      "text": " Talk about the best colleague you have ever worked with. You should say when you worked with this colleague,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_119",
+      "end": 580.3779999999999,
+      "speaker": "D",
+      "start": 578.6279999999999,
+      "text": " why you liked this colleague,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_120",
+      "end": 583.478,
+      "speaker": "D",
+      "start": 580.978,
+      "text": " and how this colleague affected your work.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_121",
+      "end": 585.678,
+      "speaker": "D",
+      "start": 584.3779999999999,
+      "text": " Please prepare now.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_122",
+      "end": 589.6279999999999,
+      "speaker": "E",
+      "start": 587.678,
+      "text": " I'm the best colleague he ever worked with.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_123",
+      "end": 592.5759999999999,
+      "speaker": "E",
+      "start": 592.276,
+      "text": " Uh",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_124",
+      "end": 592.6759999999999,
+      "speaker": "A",
+      "start": 592.5759999999999,
+      "text": " It's",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_125",
+      "end": 593.3259999999999,
+      "speaker": "E",
+      "start": 592.6759999999999,
+      "text": " yeah.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_126",
+      "end": 630.178,
+      "speaker": "D",
+      "start": 628.628,
+      "text": " Please start now.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_127",
+      "end": 643.8280000000001,
+      "speaker": "E",
+      "start": 635.678,
+      "text": " The colleague I ever worked with oh I'm sorry I the best colleague you're I ever worked with with my",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_128",
+      "end": 654.5780000000001,
+      "speaker": "E",
+      "start": 646.028,
+      "text": " um colleague that I met him last year he's the same age as me and he's always funny and",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_129",
+      "end": 681.596,
+      "speaker": "E",
+      "start": 655.796,
+      "text": " He's trying he's always trying his best and you know when I some when I have some problem about my job he always talk with me and he noticed that I had a bad feeling and he always talked to me like are you okay and I know you somehow problem and he always",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_130",
+      "end": 683.358,
+      "speaker": "E",
+      "start": 682.708,
+      "text": " kind.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_131",
+      "end": 691.0079999999999,
+      "speaker": "E",
+      "start": 683.408,
+      "text": " So I, when I have some problem or difficulties,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_132",
+      "end": 692.308,
+      "speaker": "E",
+      "start": 691.208,
+      "text": " I always talk to him.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_133",
+      "end": 698.558,
+      "speaker": "D",
+      "start": 696.958,
+      "text": " This is the end of part",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_134",
+      "end": 699.158,
+      "speaker": "E",
+      "start": 698.558,
+      "text": " I'm four. Fukashi.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_135",
+      "end": 700.958,
+      "speaker": "D",
+      "start": 699.608,
+      "text": " Part four,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_136",
+      "end": 702.358,
+      "speaker": "D",
+      "start": 701.358,
+      "text": " graphics presentation.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_137",
+      "end": 705.708,
+      "speaker": "D",
+      "start": 703.058,
+      "text": " You will talk about visual information.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_138",
+      "end": 708.458,
+      "speaker": "D",
+      "start": 706.358,
+      "text": " Give as many details as you can.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_139",
+      "end": 713.778,
+      "speaker": "D",
+      "start": 709.428,
+      "text": " You have 40 seconds to prepare and 60 seconds for speaking time.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_140",
+      "end": 722.578,
+      "speaker": "D",
+      "start": 714.528,
+      "text": " This graph shows the revenue of the advertising industry in country A and country B over five years.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_141",
+      "end": 733.628,
+      "speaker": "D",
+      "start": 723.328,
+      "text": " Look at the information and talk about the revenue of country A and country B's advertising industry from 2013 to 2017.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_142",
+      "end": 736.482,
+      "speaker": "D",
+      "start": 735.032,
+      "text": " Please prepare now.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_143",
+      "end": 780.884,
+      "speaker": "D",
+      "start": 779.284,
+      "text": " Please start now.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_144",
+      "end": 795.284,
+      "speaker": "E",
+      "start": 784.684,
+      "text": " The advertising industry revenue of country A is basically higher than country B,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_145",
+      "end": 798.184,
+      "speaker": "E",
+      "start": 795.384,
+      "text": " but in 2015,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_146",
+      "end": 803.884,
+      "speaker": "E",
+      "start": 798.484,
+      "text": " the country B's revenue is higher than country A.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_147",
+      "end": 824.7959999999999,
+      "speaker": "E",
+      "start": 805.396,
+      "text": " Also country A's revenue is uh higher than 70 billion US dollars except 2015, so I can tell in 2015 the country A's has",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_148",
+      "end": 829.7959999999999,
+      "speaker": "E",
+      "start": 826.146,
+      "text": " some problem. And also",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_149",
+      "end": 834.738,
+      "speaker": "E",
+      "start": 830.388,
+      "text": " Between 2013 and 2017,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_150",
+      "end": 843.8380000000001,
+      "speaker": "E",
+      "start": 836.038,
+      "text": " both country A and B is getting higher than last year.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_151",
+      "end": 849.288,
+      "speaker": "D",
+      "start": 847.038,
+      "text": " This is the end of Part Four,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_152",
+      "end": 851.038,
+      "speaker": "D",
+      "start": 849.738,
+      "text": " Part Five,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_153",
+      "end": 852.938,
+      "speaker": "D",
+      "start": 851.488,
+      "text": " Communication Activity.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_154",
+      "end": 856.238,
+      "speaker": "D",
+      "start": 853.788,
+      "text": " You will have a conversation with someone.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_155",
+      "end": 859.098,
+      "speaker": "D",
+      "start": 856.948,
+      "text": " Imagine that you are in the situation.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_156",
+      "end": 866.148,
+      "speaker": "D",
+      "start": 859.7479999999999,
+      "text": " You have forty seconds to prepare and thirty seconds for speaking time after each audio prompt.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_157",
+      "end": 883.348,
+      "speaker": "D",
+      "start": 866.848,
+      "text": " The speaker is asking you about job interviews because he or she is going to apply for a job. Please prepare to talk about preparing for a job interview and things to do and not do during a job interview.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_158",
+      "end": 885.754,
+      "speaker": "D",
+      "start": 884.404,
+      "text": " Please prepare now.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_159",
+      "end": 888.404,
+      "speaker": "C",
+      "start": 888.104,
+      "text": " What's",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_160",
+      "end": 888.654,
+      "speaker": "@",
+      "start": 888.404,
+      "text": " your weight?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_161",
+      "end": 892.954,
+      "speaker": "C",
+      "start": 888.654,
+      "text": " Things to do and not to do during",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_162",
+      "end": 893.154,
+      "speaker": "E",
+      "start": 892.954,
+      "text": " our Ah.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_163",
+      "end": 893.354,
+      "speaker": "C",
+      "start": 893.154,
+      "text": " session.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_164",
+      "end": 897.054,
+      "speaker": "C",
+      "start": 895.804,
+      "text": " Things to do and not to do.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_165",
+      "end": 930.436,
+      "speaker": "D",
+      "start": 929.236,
+      "text": " nervous about my interview.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_166",
+      "end": 932.836,
+      "speaker": "D",
+      "start": 931.186,
+      "text": " What documents should I bring?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_167",
+      "end": 941.036,
+      "speaker": "E",
+      "start": 936.936,
+      "text": " Um, you said you're very nervous, but don't worry.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_168",
+      "end": 952.836,
+      "speaker": "E",
+      "start": 941.136,
+      "text": " My company is really good and because the people are so kind to a new hire,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_169",
+      "end": 955.236,
+      "speaker": "E",
+      "start": 954.236,
+      "text": " a new uh",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_170",
+      "end": 964.366,
+      "speaker": "E",
+      "start": 956.116,
+      "text": " worker and you know there is a four department so if you don't like one specific department you can change it.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_171",
+      "end": 971.216,
+      "speaker": "D",
+      "start": 968.316,
+      "text": " Okay, and what clothes should I wear?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_172",
+      "end": 983.466,
+      "speaker": "E",
+      "start": 974.4159999999999,
+      "text": " Um, there is no specific rule what to wear so if you don't have any appointment you can wear some casual.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_173",
+      "end": 993.25,
+      "speaker": "E",
+      "start": 984.5,
+      "text": " clothes and if you have some meeting or appointment, of course you can wear some business format suit.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_174",
+      "end": 1002.5,
+      "speaker": "E",
+      "start": 994.3,
+      "text": " But as you can see I'm wearing some t-shirt when I have some when I don't have any appointment.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_175",
+      "end": 1009.1,
+      "speaker": "D",
+      "start": 1005.75,
+      "text": " What do you think of asking questions about salary,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_176",
+      "end": 1012.25,
+      "speaker": "D",
+      "start": 1009.7,
+      "text": " holidays and benefits during the interview?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_177",
+      "end": 1016.678,
+      "speaker": "E",
+      "start": 1016.628,
+      "text": " Mm.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_178",
+      "end": 1022.378,
+      "speaker": "E",
+      "start": 1016.778,
+      "text": " About salary, it's not bad, and holiday, you can um",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_179",
+      "end": 1027.828,
+      "speaker": "E",
+      "start": 1023.628,
+      "text": " if you have any, you know, event,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_180",
+      "end": 1040.428,
+      "speaker": "E",
+      "start": 1028.028,
+      "text": " of course you can take a day off, so don't worry about it, and what was the third question? I forgot.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_181",
+      "end": 1052.892,
+      "speaker": "D",
+      "start": 1049.492,
+      "text": " interview at another company so I should tell the interviewer about it.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_182",
+      "end": 1054.5919999999999,
+      "speaker": "D",
+      "start": 1053.3419999999999,
+      "text": " What do you think?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_183",
+      "end": 1075.492,
+      "speaker": "E",
+      "start": 1058.3419999999999,
+      "text": " It's good if I were you I'm gonna apply some companies so don't pick my company without applying for other companies.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_184",
+      "end": 1077.26,
+      "speaker": "E",
+      "start": 1075.86,
+      "text": " company's job. So",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_185",
+      "end": 1081.36,
+      "speaker": "E",
+      "start": 1078.81,
+      "text": " if you're interested our company, please come.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_186",
+      "end": 1086.36,
+      "speaker": "E",
+      "start": 1081.9599999999998,
+      "text": " So if you have any questions, please call me or text me.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_187",
+      "end": 1093.26,
+      "speaker": "D",
+      "start": 1090.61,
+      "text": " This is the end of the business speaking test.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_188",
+      "end": 1094.26,
+      "speaker": "D",
+      "start": 1093.4599999999998,
+      "text": " Thank you.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_189",
+      "end": 1100.81,
+      "speaker": "E",
+      "start": 1098.2099999999998,
+      "text": " That's it? That was easy!",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_190",
+      "end": 1103.6599999999999,
+      "speaker": "A",
+      "start": 1100.81,
+      "text": " I think that's the end. Maybe you need to click studio studio.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_191",
+      "end": 1106.594,
+      "speaker": "E",
+      "start": 1105.844,
+      "text": "\u304a\u75b2\u308c\u69d8\u3067\u3057\u305f",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_192",
+      "end": 1107.794,
+      "speaker": "B",
+      "start": 1106.694,
+      "text": " That's got to be nice.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_193",
+      "end": 1110.2440000000001,
+      "speaker": "B",
+      "start": 1107.944,
+      "text": " Very interesting.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_194",
+      "end": 1113.944,
+      "speaker": "E",
+      "start": 1112.7440000000001,
+      "text": "\u3084\u3070\u3044\u3084\u3070\u3044",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_195",
+      "end": 1117.2440000000001,
+      "speaker": "B",
+      "start": 1114.944,
+      "text": " What was difficult for you in that?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_196",
+      "end": 1122.358,
+      "speaker": "E",
+      "start": 1120.308,
+      "text": " So there's a limit so a",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_197",
+      "end": 1122.458,
+      "speaker": "B",
+      "start": 1122.358,
+      "text": " A",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_198",
+      "end": 1122.708,
+      "speaker": "E",
+      "start": 1122.458,
+      "text": " time",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_199",
+      "end": 1122.758,
+      "speaker": "B",
+      "start": 1122.708,
+      "text": " time",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_200",
+      "end": 1123.008,
+      "speaker": "E",
+      "start": 1122.758,
+      "text": " limit.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_201",
+      "end": 1123.108,
+      "speaker": "B",
+      "start": 1123.008,
+      "text": " limit?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_202",
+      "end": 1126.808,
+      "speaker": "E",
+      "start": 1123.108,
+      "text": " Yeah, so I can't come up with some good stuff",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_203",
+      "end": 1131.208,
+      "speaker": "B",
+      "start": 1126.808,
+      "text": " Have you ever taken like a speaking test like that?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_204",
+      "end": 1132.508,
+      "speaker": "B",
+      "start": 1131.308,
+      "text": " Like the TOEIC speaking",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_205",
+      "end": 1132.708,
+      "speaker": "E",
+      "start": 1132.508,
+      "text": " No.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_206",
+      "end": 1136.108,
+      "speaker": "B",
+      "start": 1132.708,
+      "text": " test or the Versant test by Pearson?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_207",
+      "end": 1136.808,
+      "speaker": "E",
+      "start": 1136.508,
+      "text": " No.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_208",
+      "end": 1137.658,
+      "speaker": "B",
+      "start": 1136.808,
+      "text": " No? Okay.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_209",
+      "end": 1138.208,
+      "speaker": "B",
+      "start": 1137.708,
+      "text": " Interesting.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_210",
+      "end": 1140.308,
+      "speaker": "B",
+      "start": 1139.408,
+      "text": " Yeah,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_211",
+      "end": 1143.058,
+      "speaker": "B",
+      "start": 1140.458,
+      "text": " I'll stop that.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_212",
+      "end": 1143.358,
+      "speaker": "E",
+      "start": 1143.058,
+      "text": " Okay",
+      "type": "transcript.text.segment"
+    }
+  ],
+  "task": null,
+  "text": "I turn that on and start recording here. But you you don't have to talk to that, Okay. it should pick you up. Hmm. I turn that. Just to stop the sound. Okay. Okay, whenever you're ready, please go ahead you can begin. Okay. Alright, one two three four five.\nI have to do my mic microphone test. Ah, yeah, they got this environment set up thing. Ah ah ah. How long does it take a company to do? Yeah. Will you?\nCan you you just can't a moment. click the button? I can't. No. What are you? Well maybe it thinks maybe it was all in one. Yeah. What of? But we didn't hear anything, did we? No. Why don't you just refresh the screen? Alright. Ding. Oh I heard that sound. Did you hear that Yes. sound? Yeah, okay. Konnichiwa.\nOh, okay. yeah. Oh that that was And you. I can start it. Oops. Okay, that's a slow recording, but okay. Yep. There you go. Part one, interview. You will be asked ten questions. Listen carefully and answer each question. You have twenty seconds for speaking time. What sports do you like?\nI like playing basketball and baseball, but I recently didn't do both, so I want to try it when I have a chance. When I was a kid, I played basketball with my friends at the park. That's fun. What languages do you speak? I usually speak Japanese and English.\nWhen I doing job, sometimes I have to talk with my colleague with English, so I'm trying to improve my English skill. How often do you write emails at work? I always write emails. I usually write 10 or...\n20 emails each day to my client and to my boss or to my colleague and I write it in English and Japanese. What do you like and dislike about meetings? I am sorry I couldn't catch the question.\nSo I'm gonna skip it. How will your tasks different now from two years ago? Two years ago. Hmm. Sorry, I...\ndidn't understand what you said. What advice would you give to someone who wants to do well in a job interview? Hmm. What I give as advice is\nHmm just relax and talk about yourself next How do you imagine your company this time next year? year our company mmm I hope the sales is getting better and\nOr Walker is coming to my office. Explain the steps you take when making an important decision at work. It's hard to explain. I'm doing.\nYou know, basic stuff and improve my skill. Do you prefer a job with specific tasks or a job that is more flexible? Explain in detail. I prefer\nflexible job you know if I do same things all the time I'm getting bored and I can't feel my skills getting improved Give one reason for low motivation at work.\nWhat could be done about this? Money. I have a good co-worker and my boss is really good, so these people are my motivation.\nRepeat eight sentences. Read each sentence aloud. You have ten seconds to read each sentence. Please start now. The technological device they use here is absolutely cutting edge. Please start now.\nCan you believe that millions of their self -help books are purchased by each year? Please start now. The problem with our meeting here is they don't end with action plans or final agreements.\nPlease start now. Our employees think that our marketing strategies are not working. Please start now. Until when can we request for changes to our urgent orders?\nPlease start now. We will shift our production to somewhere in Southeast Asia this year. This product upgrade would make us the country's leading information tech company.\nPlease start now. Could we sell their existing product with a twenty percent discount on Thursday? This is the end of part two. Part three, presentation. You will talk about a topic. Give as many details as you can.\nYou have forty seconds to prepare and sixty seconds for speaking time. Yeee! Talk about the best colleague you have ever worked with. You should say when you worked with this colleague, why you liked this colleague, and how this colleague affected your work. Please prepare now. I'm the best colleague he ever worked with.\nUh It's yeah.\nPlease start now. The colleague I ever worked with oh I'm sorry I the best colleague you're I ever worked with with my um colleague that I met him last year he's the same age as me and he's always funny and\nHe's trying he's always trying his best and you know when I some when I have some problem about my job he always talk with me and he noticed that I had a bad feeling and he always talked to me like are you okay and I know you somehow problem and he always\nkind. So I, when I have some problem or difficulties, I always talk to him. This is the end of part I'm four. Fukashi. Part four, graphics presentation. You will talk about visual information. Give as many details as you can.\nYou have 40 seconds to prepare and 60 seconds for speaking time. This graph shows the revenue of the advertising industry in country A and country B over five years. Look at the information and talk about the revenue of country A and country B's advertising industry from 2013 to 2017.\nPlease prepare now.\nPlease start now. The advertising industry revenue of country A is basically higher than country B, but in 2015, the country B's revenue is higher than country A.\nAlso country A's revenue is uh higher than 70 billion US dollars except 2015, so I can tell in 2015 the country A's has some problem. And also\nBetween 2013 and 2017, both country A and B is getting higher than last year. This is the end of Part Four, Part Five, Communication Activity. You will have a conversation with someone.\nImagine that you are in the situation. You have forty seconds to prepare and thirty seconds for speaking time after each audio prompt. The speaker is asking you about job interviews because he or she is going to apply for a job. Please prepare to talk about preparing for a job interview and things to do and not do during a job interview.\nPlease prepare now. What's your weight? Things to do and not to do during our Ah. session. Things to do and not to do.\nnervous about my interview. What documents should I bring? Um, you said you're very nervous, but don't worry. My company is really good and because the people are so kind to a new hire, a new uh\nworker and you know there is a four department so if you don't like one specific department you can change it. Okay, and what clothes should I wear? Um, there is no specific rule what to wear so if you don't have any appointment you can wear some casual.\nclothes and if you have some meeting or appointment, of course you can wear some business format suit. But as you can see I'm wearing some t-shirt when I have some when I don't have any appointment. What do you think of asking questions about salary, holidays and benefits during the interview?\nMm. About salary, it's not bad, and holiday, you can um if you have any, you know, event, of course you can take a day off, so don't worry about it, and what was the third question? I forgot.\ninterview at another company so I should tell the interviewer about it. What do you think? It's good if I were you I'm gonna apply some companies so don't pick my company without applying for other companies.\ncompany's job. So if you're interested our company, please come. So if you have any questions, please call me or text me. This is the end of the business speaking test. Thank you. That's it? That was easy! I think that's the end. Maybe you need to click studio studio.\n\u304a\u75b2\u308c\u69d8 \u3067\u3057\u305f That's got to be nice. Very interesting. \u3084\u3070\u3044\u3084\u3070\u3044 What was difficult for you in that?\nSo there's a limit so a A time time limit. limit? Yeah, so I can't come up with some good stuff Have you ever taken like a speaking test like that? Like the TOEIC speaking No. test or the Versant test by Pearson? No. No? Okay. Interesting. Yeah, I'll stop that. Okay",
+  "usage": {
+    "input_tokens": 21955,
+    "output_tokens": 26962,
+    "total_tokens": 48917,
+    "type": "tokens",
+    "input_token_details": {
+      "audio_tokens": 19442,
+      "text_tokens": 2513
+    }
+  }
+}

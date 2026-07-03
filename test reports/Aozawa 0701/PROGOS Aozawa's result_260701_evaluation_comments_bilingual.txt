@@ -1,0 +1,456 @@
+PROGOS Evaluation Comments - Japanese and English
+
+Source: PROGOS Aozawa's result_260701.pdf
+Candidate: 青澤 俊太
+Test date: 2026-07-01
+
+CEFR matching note:
+Cell references point to the English sheet in CEFR Descriptors_en.xlsx. For each named report competence, the official CEFR entry is selected first by mapping the report competence to the corresponding workbook scale and then using the reported level. Other potential matches are listed separately based on wording and meaning. The taxonomy and level shown for each entry come from columns B-F of the workbook.
+
+============================================================
+OVERALL ASSESSMENT
+CEFR-aligned level: A2 High
+============================================================
+
+Japanese:
+一連の簡単な単語、フレーズ、文章を使い、日常生活に関連した話題について話すことができます。
+幅広く基本的な単語や表現を使い、日常でのありふれた状況においてやりとりすることができます。
+
+English:
+You can use a series of simple words, phrases, and sentences to talk about topics related to daily life.
+Best CEFR activity-scale match (the overall assessment has no named report competence):
+Cell: English!G232
+CEFR taxonomy: Communicative language activities > Production > Oral production > Overall oral production
+Workbook level: A2
+Descriptor: Can give a simple description or presentation of people, living or working conditions, daily routines. likes/dislikes, etc. as a short series of simple phrases and sentences linked into a list.
+
+You can use a broad range of basic vocabulary and expressions to interact in common everyday situations.
+Best CEFR activity-scale match (treating A2 High as A2+):
+Cell: English!G537
+CEFR taxonomy: Communicative language activities > Interaction > Oral interaction > Obtaining goods and services
+Workbook level: A2+
+Descriptor: Can interact in predictable everyday situations (e.g. post office, station, shop), using a wide range of simple expressions.
+
+============================================================
+1. RANGE (表現の幅)
+CEFR level: B1
+============================================================
+
+Evaluation
+----------
+
+Japanese:
+幅広い言葉を使い、自分の言いたいことをはっきりと表現できます。また、一般的であったり、本職や娯楽に関する幅広い話題に対して適切な文脈で率直な表現をすることができます。
+
+English:
+You can use a wide range of language to express clearly what you want to say. You can also express yourself directly and appropriately in context across a broad range of general topics and topics related to your work and leisure activities.
+
+Official CEFR scale for the reported competence and level:
+Cell: English!G1145
+CEFR taxonomy: Communicative language competences > Linguistic competence > General linguistic range
+Workbook level: B1
+Descriptor: Has enough language to get by, with sufficient vocabulary to express themselves with some hesitation and circumlocutions on topics such as family, hobbies and interests, work, travel and current events, but lexical limitations cause repetition and even difficulty with formulation at times.
+
+Other potential matches:
+
+Cell: English!G1141
+Related competence and scale: Linguistic competence > General linguistic range
+Workbook level: C1
+Why it may match: Closely matches the first sentence about selecting from a broad range of language and expressing oneself clearly.
+Descriptor: Can select an appropriate formulation from a broad range of language to express themselves clearly, without having to restrict what they want to say.
+
+Cells: English!G1163 and English!G1164
+Related competence and scale: Linguistic competence > Vocabulary range
+Workbook level: B1
+Why they may match: They cover vocabulary range for familiar, everyday, work, travel, hobby, and current-event topics at the reported level.
+Descriptors:
+- Has a good range of vocabulary related to familiar topics and everyday situations.
+- Has sufficient vocabulary to express themselves with some circumlocutions on most topics pertinent to their everyday life such as family, hobbies and interests, work, travel and current events.
+
+Cell: English!G1258
+Related competence and scale: Pragmatic competence > Flexibility
+Workbook level: B1
+Why it may match: It matches the ability to use a wide range of simple language to express what one wants.
+Descriptor: Can exploit a wide range of simple language flexibly to express much of what they want.
+
+Cell: English!G406
+Related activity and scale: Communicative language activities > Interaction > Oral interaction > Overall oral interaction
+Workbook level: B2+
+Why it may match: It closely matches the second sentence's references to general, vocational, and leisure topics and appropriateness to context.
+Descriptor: Can use the language fluently, accurately and effectively on a wide range of general, academic, vocational or leisure topics, marking clearly the relationships between ideas. Can communicate spontaneously with good grammatical control without much sign of having to restrict what they want to say, adopting a level of formality appropriate to the circumstances.
+
+Level-up advice
+---------------
+
+Japanese:
+自分自身の興味がある領域や一般的な話題については、明確で細部に渡る描写をしたり、重要な論点とその根拠をメリハリをつけて表現できるよう、充分な言語表現を使えるようにしましょう。
+
+English:
+Develop a sufficient range of language to give clear, detailed descriptions of subjects that interest you and general topics, and to present important points and the reasons supporting them with appropriate emphasis.
+
+Concrete study example
+----------------------
+
+Japanese:
+- 'I wish...'など願望や後悔を表す表現を使い、「実際には起きていないけれども、自分が考えている事」を話す練習をしましょう。
+- 下記の例文を、職場環境について同僚と話すシーンを思い浮かべながら練習しましょう。例えば職場のルールが変わって欲しい時には、'I wish we could...'から会話を始める事ができます。
+- 「▼参考」にある語句を使い、別の文章を作って何度も練習しましょう。
+
+English:
+- Practice using expressions such as "I wish..." to talk about wishes and regrets, including things you are thinking about that have not actually happened.
+- Practice the example sentences below while imagining that you are discussing the workplace with a colleague. For example, if you want a workplace rule to change, you can begin with "I wish we could..."
+- Use the phrases in the Reference section to create other sentences and practice them repeatedly.
+
+Examples:
+I wish we could be more flexible about working hours.
+(勤務時間規定がもっと柔軟になればいいのに。)
+
+If only I had joined this company one year later, I wouldn't have been transferred.
+(1年遅く入社してさえいれば、私は異動にならなかったのに。)
+
+Reference:
+I wish...に続いて使える表現:
+I could... / he/she had... / I was...
+
+English translation:
+Expressions that can follow "I wish...":
+I could... / he/she had... / I was...
+
+============================================================
+2. ACCURACY (正確さ)
+CEFR level: A2
+============================================================
+
+Evaluation
+----------
+
+Japanese:
+いくつかの簡単な文章パターンや構文を正しく使えるものの、動詞の時制や主語と動詞を一致させられないなどの初歩的なミスをしてしまいます。
+
+English:
+Although you can correctly use some simple sentence patterns and structures, you make basic mistakes such as using incorrect verb tenses and failing to maintain subject-verb agreement.
+
+Official CEFR scale for the reported competence and level:
+Cell: English!G1177
+CEFR taxonomy: Communicative language competences > Linguistic competence > Grammatical accuracy
+Workbook level: A2
+Descriptor: Uses some simple structures correctly, but still systematically makes basic mistakes; nevertheless, it is usually clear what they are trying to say.
+
+Other potential matches:
+None with comparable meaning in a different CEFR scale.
+
+Level-up advice
+---------------
+
+Japanese:
+よく使われる決まり文句や構文を正確に使えるようにしましょう。また、動詞の時制や主語と動詞の一致などの初歩的な誤りを意識して正しく話しましょう。
+
+English:
+Work on using common set phrases and sentence structures accurately. Also, speak carefully and correctly by paying attention to basic errors involving verb tense and subject-verb agreement.
+
+Concrete study example
+----------------------
+
+Japanese:
+- まとまった量の文章を話す時でも、when, while, thenなどの時制表現を正しく、適切に使う練習をしましょう。
+- 下記の例文を、人の経歴を紹介するシーンを思い浮かべながら練習しましょう。
+- 「▼参考」にある語句を使い、別の文章を作って何度も練習しましょう。
+
+English:
+- Even when speaking at length, practice using time expressions such as "when," "while," and "then" correctly and appropriately.
+- Practice the example below while imagining that you are introducing someone's career history.
+- Use the phrases in the Reference section to create other sentences and practice them repeatedly.
+
+Example:
+After he left ABC, Inc., he became the HR manager at a start-up company. While working there, he improved the company's work environment by reducing employee overtime. Then, in 2015, he joined KLM Corporation and became a board member.
+
+（彼はABC社を出たあと、スタートアップ企業の人事マネージャーになりました。そこでは、従業員の残業時間を減らす事で、職場環境改善を行いました。そして2015年にKLM社に入社し、役員に就任しました。）
+
+Reference:
+時を表す前置詞の例
+before / after / since / till / until / then
+
+English translation:
+Examples of words and prepositions used to express time:
+before / after / since / till / until / then
+
+============================================================
+3. FLUENCY (流暢さ)
+CEFR level: B2 and above
+============================================================
+
+Evaluation
+----------
+
+Japanese:
+話が長く複雑に進展したとしても、自然でスムーズに話すことができるものの、まだ適切な表現や話し方をすぐに見つけられないときもあります。
+
+English:
+Even when a discussion becomes long and complex, you can speak naturally and smoothly. However, there are still times when you cannot immediately find the appropriate expression or way to phrase something.
+
+Official CEFR scale for the reported competence and level:
+CEFR taxonomy for all entries below: Communicative language competences > Pragmatic competence > Fluency
+The workbook does not contain a combined "B2 and above" level, so the B2+ and B2 rows are listed.
+
+Cell: English!G1326
+Workbook level: B2+
+Descriptor: Can communicate spontaneously, often showing remarkable fluency and ease of expression in even longer complex stretches of language.
+
+Cell: English!G1327
+Workbook level: B2
+Descriptor: Can produce stretches of language with a fairly even tempo; although they can be hesitant as they search for patterns and expressions, there are few noticeably long pauses.
+
+Cell: English!G1328
+Workbook level: B2
+Descriptor: Can interact with a degree of fluency and spontaneity that makes regular interaction with users of the target language quite possible without imposing strain on either party.
+
+Other potential match:
+Cell: English!G1325
+Related competence and scale: Pragmatic competence > Fluency
+Workbook level: C1
+Why it may match: Its reference to a natural, smooth flow closely resembles the first sentence, but its level is above the B2/B2+ rows.
+Descriptor: Can express themselves fluently and spontaneously, almost effortlessly. Only a conceptually difficult subject can hinder a natural, smooth flow of language.
+
+Level-up advice
+---------------
+
+Japanese:
+フォーマル、カジュアルな場面にふさわしい単語や表現を使い分け、会話の幅を広げましょう。強調するために間の取り方を学びましょう。
+
+English:
+Broaden your conversational range by choosing words and expressions appropriate to formal and casual situations. Learn how to use pauses for emphasis.
+
+Concrete study example
+----------------------
+
+Japanese:
+- 'Hmm'を使い、疑いや、反対意見を表現する練習をしましょう。
+- 下記の例文を、相手の意見に反対するシーンを思い浮かべながら練習しましょう。
+
+English:
+- Practice using "Hmm" to express doubt or disagreement.
+- Practice the examples below while imagining a situation in which you disagree with someone else's opinion.
+
+Examples:
+Hmm... It may be true.
+(そうですね...そうかもしれないですね。)
+
+Hmm... Interesting.
+(そうですね...興味深いです。)
+
+Reference
+---------
+
+Japanese:
+英語圏文化によっては、ポジティブな事ははっきりと話す一方で、ネガティブな事は曖昧に表現する事を好む文化もあります。上記の例文を始め、反対意見を示したい時の語彙表現を覚えておきましょう。
+
+English:
+In some English-speaking cultures, people express positive things clearly while preferring to express negative things less directly. Learn expressions, including the examples above, that you can use when you want to indicate disagreement.
+
+============================================================
+4. INTERACTION (やりとり)
+CEFR level: A2
+============================================================
+
+Evaluation
+----------
+
+Japanese:
+相手が会話のリードをしてくれれば、日常の身近な話題に関して情報交換や会話のやりとりができます。
+
+English:
+When the other person leads the conversation, you can exchange information and interact on familiar everyday topics.
+
+Official CEFR scale for the reported competence and level:
+Cell: English!G411
+CEFR taxonomy: Communicative language activities > Interaction > Oral interaction > Overall oral interaction
+Workbook level: A2
+Descriptor: Can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters to do with work and free time. Can handle very short social exchanges but is rarely able to understand enough to keep conversation going of their own accord.
+
+Other potential match:
+Cell: English!G410
+Related activity and scale: Communicative language activities > Interaction > Oral interaction > Overall oral interaction
+Workbook level: A2+
+Why it may match: It more directly reflects the other person helping and the exchange of information on familiar, predictable topics.
+Descriptor: Can interact with reasonable ease in structured situations and short conversations, provided the other person helps if necessary. Can manage simple, routine exchanges without undue effort; can ask and answer questions and exchange ideas and information on familiar topics in predictable everyday situations.
+
+Level-up advice
+---------------
+
+Japanese:
+身近な話題や興味分野、日常の出来事（家族、趣味、仕事、旅行、時事など）についての情報交換や自分の言いたいことを表現するために、幅広く言葉を使う練習をしましょう。
+
+English:
+Practice using a broad range of language to exchange information and express what you want to say about familiar topics, areas of interest, and everyday matters such as family, hobbies, work, travel, and current events.
+
+Concrete study example
+----------------------
+
+Japanese:
+- In my opinion, I guess thatなどの冒頭表現を使い、意見を述べる練習をしましょう。
+- 下記の例文を、面接のアドバイスをするシーンを思い浮かべながら練習しましょう。
+- 「▼参考」にある表現を使い、別の文章を作って何度も練習しましょう。
+
+English:
+- Practice stating your opinion by using opening expressions such as "In my opinion" and "I guess that."
+- Practice the examples below while imagining that you are giving someone advice about a job interview.
+- Use the expressions in the Reference section to create other sentences and practice them repeatedly.
+
+Examples:
+In my opinion, you should tell the interviewer about the other company.
+(私の考えでは、面接官には、もう一社の事を伝えた方がいいと思います。)
+
+I guess that simple clothes are better in job interviews.
+(シンプルな服装の方が面接にはいいと思いますよ。)
+
+Reference:
+意見を述べる時の冒頭表現例
+I suppose that / I expect / for me / personally / from my point of view
+
+English translation:
+Examples of opening expressions for stating an opinion:
+I suppose that / I expect / for me / personally / from my point of view
+
+============================================================
+5. COHERENCE (一貫性)
+CEFR level: B1
+============================================================
+
+Evaluation
+----------
+
+Japanese:
+点在する考えを一列の線となって伝わるようにつなげることができます。
+
+English:
+You can connect separate ideas so that they are communicated as a coherent line of thought.
+
+Official CEFR scale for the reported competence and level:
+CEFR taxonomy for all entries below: Communicative language competences > Pragmatic competence > Coherence and cohesion
+
+Cell: English!G1305
+Workbook level: B1
+Descriptor: Can link a series of shorter, discrete simple elements into a connected, linear sequence of points.
+
+Cell: English!G1306
+Workbook level: B1
+Descriptor: Can form longer sentences and link them together using a limited number of cohesive devices, e.g. in a story.
+
+Cell: English!G1307
+Workbook level: B1
+Descriptor: Can make simple, logical paragraph breaks in a longer text.
+
+Other potential matches:
+
+Cell: English!G231
+Related activity and scale: Communicative language activities > Production > Oral production > Overall oral production
+Workbook level: B1
+Why it may match: It describes oral production presented as a linear sequence of points.
+Descriptor: Can reasonably fluently sustain a straightforward description of one of a variety of subjects within their field of interest, presenting it as a linear sequence of points.
+
+Cell: English!G321
+Related activity and scale: Communicative language activities > Production > Written production > Overall written production
+Workbook level: B1
+Why it may match: Its wording also links shorter discrete elements into a linear sequence, but it applies to writing rather than speaking.
+Descriptor: Can produce straightforward connected texts on a range of familiar subjects within their field of interest, by linking a series of shorter discrete elements into a linear sequence.
+
+Level-up advice
+---------------
+
+Japanese:
+接続表現を使い、明瞭かつ論理的に話しましょう。
+
+English:
+Use linking expressions to speak clearly and logically.
+
+Concrete study example
+----------------------
+
+Japanese:
+- for example, for one thingなどの接続表現を使い、考えている事についてシンプルな論理展開で話す練習をしましょう。
+- 下記の例文を、論理展開に注意しながら練習しましょう。
+- 「▼参考」にある語句を使い、別の文章を作って何度も練習しましょう。
+
+English:
+- Practice using linking expressions such as "for example" and "for one thing" to present your thoughts through a simple logical progression.
+- Practice the examples below while paying attention to how the logic develops.
+- Use the phrases in the Reference section to create other sentences and practice them repeatedly.
+
+Examples:
+Companies can organize events to motivate employees. For example, my company had a New Year's party last year, and my whole family was invited.
+
+(企業は、従業員のモチベーション向上の為にイベントを企画する事ができます。例えば私の勤める会社では、昨年新年会が開催されました。（私だけでなく）私の家族も招待されました。)
+
+There are many reasons why I like my job. For one thing, every day I have different tasks, so it never gets boring.
+
+(私の仕事が好きな理由はたくさんあります。一つには、毎日違う仕事をしているので、飽きることがありません。)
+
+Reference:
+シンプルな論理展開に使える接続表現例
+for one thing / for another thing / furthermore / in addition (to)
+
+English translation:
+Examples of linking expressions for a simple logical progression:
+for one thing / for another thing / furthermore / in addition (to)
+
+============================================================
+6. PHONOLOGY (音韻)
+CEFR level: B1
+============================================================
+
+Evaluation
+----------
+
+Japanese:
+発音は概ねわかりやすいです。適切に強調したりイントネーションを使える単語や表現もあります。それでもまだ、母語っぽく発音してしまい訛りのようになっている部分があります。
+
+English:
+Your pronunciation is generally easy to understand. You can use appropriate stress and intonation with some words and expressions. However, some parts are still pronounced with features of your first language, resulting in a noticeable accent.
+
+Official CEFR scale for the reported competence and level:
+Cell: English!G1192
+CEFR taxonomy: Communicative language competences > Linguistic competence > Overall phonological control
+Workbook level: B1
+Descriptor: Pronunciation is generally intelligible; intonation and stress at both utterance and word levels do not prevent understanding of the message. Accent is usually influenced by the other language(s) they speak.
+
+Other potential matches:
+
+Cell: English!G1199
+Related competence and scale: Linguistic competence > Sound articulation
+Workbook level: B1
+Why it may match: It covers overall intelligibility despite recurring pronunciation problems.
+Descriptor: Is generally intelligible throughout, despite regular mispronunciation of individual sounds and words they are less familiar with.
+
+Cell: English!G1208
+Related competence and scale: Linguistic competence > Prosodic features
+Workbook level: B1
+Why it may match: It directly addresses first-language influence on stress, intonation, and rhythm.
+Descriptor: Can convey their message in an intelligible way in spite of a strong influence on stress, intonation and/or rhythm from the other language(s) they speak.
+
+Level-up advice
+---------------
+
+Japanese:
+長く話す際の、適切に強調する部分、リズム、イントネーションをどう使いこなすのかを学びましょう。
+
+English:
+Learn how to use appropriate emphasis, rhythm, and intonation when speaking at length.
+
+Concrete study example
+----------------------
+
+Japanese:
+- 普段からより多くの英語に触れる事で、英語らしい発音や抑揚が自然に発話されるようにしておきましょう。
+- TED Talksなど、英語によるスピーチを普段から視聴しましょう。気に入った文章だけリピートしてみるなど、スピーチの一部を声に出す事で、発音練習の効果は高まります。
+
+English:
+- Increase your everyday exposure to English so that English-like pronunciation and intonation come naturally when you speak.
+- Regularly watch speeches in English, such as TED Talks. Pronunciation practice will be more effective if you say parts of the speech aloud, for example by repeating sentences you particularly like.
+
+Reference:
+英語でスピーチが視聴できるサービス
+TOEIC presents English Upgrader、NHK World TV など
+
+English translation:
+Services where you can watch speeches or programs in English:
+TOEIC presents English Upgrader, NHK World TV, and others.

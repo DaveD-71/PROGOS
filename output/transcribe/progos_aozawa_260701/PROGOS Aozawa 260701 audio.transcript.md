@@ -1,0 +1,169 @@
+# PROGOS Aozawa 260701 Audio Transcript
+
+Source audio: `test reports/Aozawa 0701/PROGOS Aozawa 260701 audio.m4a`
+
+Generated from diarized transcription output saved in this folder.
+
+Speaker mapping (inferred from content):
+
+- Speaker A = Dave
+- Speaker B = Aozawa
+- Speaker C = PROGOS test audio
+
+Note: speaker names are inferred from the conversation content, not embedded in the audio metadata.
+
+## Transcript
+
+- [00:00 - 00:02] Dave: I should turn that on and start recording here.
+- [00:04 - 00:05] Dave: But you you don't have to talk to that.
+- [00:05 - 00:05] Aozawa: Okay.
+- [00:05 - 00:06] Dave: It should be good.
+- [00:07 - 00:07] Aozawa: Hmm.
+- [00:09 - 00:09] Dave: I turned that.
+- [00:10 - 00:11] Aozawa: Just
+- [00:11 - 00:13] Dave: All cuz we stop the sound.
+- [00:14 - 00:14] Aozawa: Ooh.
+- [00:16 - 00:19] Dave: Okay, whenever you're ready, please go ahead, you can begin.
+- [00:19 - 00:19] Aozawa: Okay.
+- [00:22 - 00:24] Aozawa: Current one two three four five.
+- [00:29 - 00:30] Aozawa: Oh, I have to
+- [00:32 - 00:34] Aozawa: do um the mic microphone test.
+- [00:35 - 00:37] Dave: Ah, yeah, we got this environment set up thing.
+- [00:37 - 00:38] Aozawa: Ah ah ah.
+- [00:49 - 00:50] Dave: Oh, this here company do.
+- [00:51 - 00:51] Aozawa: Yeah.
+- [00:52 - 00:53] Aozawa: What?
+- [00:58 - 00:58] Dave: Can you you
+- [00:58 - 00:59] Aozawa: Just
+- [00:59 - 00:59] Dave: can't
+- [00:59 - 00:59] Aozawa: a moment.
+- [00:59 - 01:00] Dave: click the button?
+- [01:00 - 01:01] Aozawa: I can't.
+- [01:01 - 01:02] Dave: No.
+- [01:02 - 01:02] Aozawa: What are you
+- [01:03 - 01:06] Dave: Well maybe it thinks maybe it was all in one.
+- [01:07 - 01:08] Aozawa: Yeah.
+- [01:10 - 01:10] Aozawa: What up?
+- [01:13 - 01:14] Dave: But we didn't hear anything, did we?
+- [01:15 - 01:15] Aozawa: No.
+- [01:15 - 01:17] Dave: Why don't you just refresh the screen?
+- [01:17 - 01:18] Aozawa: Alright. Ding.
+- [01:22 - 01:24] Dave: Ah, I heard that sound. Did you hear that sound?
+- [01:24 - 01:24] Aozawa: Yes.
+- [01:24 - 01:25] Dave: Yeah, I caught
+- [01:25 - 01:25] Aozawa: Konnichiwa.
+- [01:25 - 01:25] Dave: it.
+- [01:29 - 01:29] Dave: I believe
+- [01:29 - 01:29] Aozawa: Oh,
+- [01:29 - 01:29] Dave: in
+- [01:29 - 01:29] Aozawa: okay.
+- [01:29 - 01:30] Dave: you. You did that.
+- [01:33 - 01:34] Dave: I bet that was
+- [01:34 - 01:34] Aozawa: And
+- [01:34 - 01:34] Dave: you.
+- [01:34 - 01:35] Aozawa: I can start it.
+- [01:35 - 01:39] Dave: Good. Okay, that's a slow recording, but okay. Yep.
+- [01:40 - 01:41] Aozawa: There you go.
+- [01:41 - 01:55] PROGOS test audio: Part one, interview. You will be asked ten questions. Listen carefully and answer each question. You have twenty seconds for speaking time. What sports do you like?
+- [01:58 - 02:16] Aozawa: I like playing basketball and baseball, but I recently didn't do both, so I want to try it when I have a chance. When I was a kid, I played basketball with my friends at the park. That's fun.
+- [02:18 - 02:20] PROGOS test audio: What languages do you speak?
+- [02:23 - 02:26] Aozawa: I usually speak Japanese and English.
+- [02:27 - 02:39] Aozawa: I, when I doing job sometimes I have to talk with my colleague with English, so I'm trying to improve my English skill.
+- [02:44 - 02:46] PROGOS test audio: How often do you write emails at work?
+- [02:49 - 03:02] Aozawa: I always write emails. I usually write ten or 20 emails each day, to my client and to my boss or to my colleague.
+- [03:04 - 03:07] Aozawa: And I write it in English and Japanese.
+- [03:10 - 03:12] PROGOS test audio: What do you like and dislike about meetings?
+- [03:18 - 03:21] Aozawa: I'm sorry I couldn't catch the question.
+- [03:23 - 03:25] Aozawa: So I'm gonna skip it.
+- [03:36 - 03:39] PROGOS test audio: How will your tasks differ now from two years ago?
+- [03:43 - 03:44] Aozawa: Two years ago.
+- [03:49 - 03:54] Aozawa: Sorry, I... didn't understand what you said all
+- [04:02 - 04:05] PROGOS test audio: What advice would you give to someone who wants to do well in a job interview?
+- [04:13 - 04:16] Aozawa: I give as advice is
+- [04:18 - 04:18] Aozawa: Mmm
+- [04:21 - 04:25] Aozawa: Just relax and talk about yourself next
+- [04:29 - 04:32] PROGOS test audio: How do you imagine your company this time next year?
+- [04:35 - 04:39] Aozawa: year our company mmm I
+- [04:40 - 04:44] Aozawa: hope the sales is getting better and
+- [04:47 - 04:51] Aozawa: Or walker is coming to my office.
+- [04:56 - 05:00] PROGOS test audio: Explain the steps you take when making an important decision at work.
+- [05:07 - 05:10] Aozawa: It's hard to explain. I I'm
+- [05:12 - 05:13] Aozawa: doing
+- [05:15 - 05:20] Aozawa: you know basic stuff and improve my skill.
+- [05:29 - 05:36] PROGOS test audio: Do you prefer a job with specific tasks or a job that is more flexible? Explain in detail.
+- [05:40 - 05:57] Aozawa: I prefer uh flexible stuff, you know. If I do uh same things all the time, I'm getting bored and I can't feel my skill is getting improved.
+- [06:07 - 06:12] PROGOS test audio: Give one reason for low motivation at work. What could be done about this?
+- [06:16 - 06:17] Aozawa: Money.
+- [06:20 - 06:22] Aozawa: But I
+- [06:24 - 06:33] Aozawa: have a good co-worker and my boss is really good, so these people are my motivation.
+- [06:51 - 07:02] PROGOS test audio: You will see eight sentences. Read each sentence aloud. You have ten seconds to read each sentence. Please start now.
+- [07:06 - 07:12] Aozawa: The technological device they used here is absolutely cutting edge.
+- [07:17 - 07:19] PROGOS test audio: Please start now.
+- [07:23 - 07:27] Aozawa: Can you believe that millions of their self-help books are purchased by each year?
+- [07:35 - 07:37] PROGOS test audio: Please start now.
+- [07:41 - 07:48] Aozawa: The problem with our meeting here is they don't end with action plans or final arguments.
+- [07:53 - 07:54] PROGOS test audio: Please start now.
+- [07:57 - 08:01] Aozawa: Our employees think that our marketing strategy are not working.
+- [08:10 - 08:11] PROGOS test audio: Please start now.
+- [08:15 - 08:19] Aozawa: Until when can we request for changes to our urgent orders?
+- [08:27 - 08:28] PROGOS test audio: Please start now.
+- [08:31 - 08:37] Aozawa: We will shift our production to somewhere in Southeast Asia this year.
+- [08:46 - 08:47] PROGOS test audio: Please start now.
+- [08:51 - 08:57] Aozawa: This product upgrade would make us the country's leading information tech company.
+- [08:59 - 09:00] PROGOS test audio: Please start now.
+- [09:04 - 09:09] Aozawa: Could we sell their existing product with a twenty percent discount on Thursday?
+- [09:15 - 09:31] PROGOS test audio: This is the end of part two. Part three, presentation. You will talk about a topic. Give as many details as you can. You have 40 seconds to prepare and 60 seconds for speaking time.
+- [09:31 - 09:31] Aozawa: Yeesh!
+- [09:31 - 09:46] PROGOS test audio: Talk about the best colleague you've ever worked with. You should say when you worked with this colleague, why you liked this colleague and how this colleague affected your work. Please prepare now.
+- [09:47 - 09:50] Aozawa: Not the best colleague he ever worked with.
+- [09:52 - 09:52] Dave: Uh
+- [09:52 - 09:53] Aozawa: Mm.
+- [10:29 - 10:30] PROGOS test audio: Please start now.
+- [10:36 - 10:55] Aozawa: The colleague I ever worked with, oh I'm sorry, the best colleague I ever worked with with my colleague that I met him last year. He's the same age as me and he's always funny and
+- [10:56 - 11:29] Aozawa: He's try he's always trying his best and you know when I some when I have some problem about my job he always talk with me and he noticed that I had a bad feeling and he always talked to me like are you okay and I know you some have problem and he always Kind, so I when I have some problem or
+- [11:30 - 11:32] Aozawa: difficulties I always talk to him
+- [11:37 - 11:39] PROGOS test audio: This is the end of part
+- [11:39 - 11:39] Aozawa: I think I see
+- [11:40 - 12:16] PROGOS test audio: Part four graphics presentation you will talk about visual information give as many details as you can You have 40 seconds to prepare and 60 seconds for speaking time. This graph shows the revenue of the advertising industry in country A and country B over five years. Look at the information and talk about the revenue of country A and country B's advertising industry from 2013 to 2017. Please prepare now.
+- [12:19 - 12:19] Aozawa: Mm-hmm.
+- [12:59 - 13:01] PROGOS test audio: Please start now.
+- [13:05 - 13:24] Aozawa: The advertising industry revenue of country A is basically higher than country B, but in 2015, the country B's revenue is higher than country A.
+- [13:25 - 13:47] Aozawa: Also, country A's revenue is uh higher than 70 billion US dollars except 2015. So I can tell in 2015 that country A's has some problem.
+- [13:50 - 13:54] Aozawa: Between 2013 and 2017,
+- [13:56 - 14:04] Aozawa: both country A and B is getting higher than last year.
+- [14:07 - 14:46] PROGOS test audio: This is the end of part four. Part five, communication activity. You will have a conversation with someone. Imagine that you are in the situation. You have forty seconds to prepare and thirty seconds for speaking time after each audio prompt. The speaker is asking you about job interviews because he or she is going to apply for a job. Please prepare to talk about: preparing for a job interview and things to do and not do during a job interview. Please prepare now.
+- [14:48 - 14:51] Aozawa: I shall write down things to do and not to do.
+- [14:53 - 14:53] Aozawa: Very much.
+- [14:56 - 14:57] Aozawa: Things to do and not to do.
+- [15:29 - 15:33] PROGOS test audio: nervous about my interview. What documents should I bring?
+- [15:37 - 16:04] Aozawa: Um, you said you're very nervous, but don't worry. My company is really good. And because the people are so kind to a new hire, a new... worker. And you know there is a four departments, so if you don't like one specific depar de department, you can change it.
+- [16:08 - 16:11] PROGOS test audio: Okay, and what clothes should I wear?
+- [16:15 - 16:43] Aozawa: Um there is no specific rule what to wear. So if you don't have any appointment, you can wear some casual. clothes, and if you have some meeting or appointment, of course you can wear some business-formal suit. But as you can see, I'm wearing some T-shirt when I have some when I don't have any appointment.
+- [16:46 - 16:52] PROGOS test audio: What do you think of asking questions about salary, holidays and benefits during the interview?
+- [16:57 - 16:57] Dave: Mm.
+- [16:57 - 17:02] Aozawa: About salary, it's not bad. And holiday, you can, um,
+- [17:04 - 17:20] Aozawa: if you have any, you know, event, of course you can take a day off. So don't worry about it. And what was the third question? I forgot.
+- [17:29 - 17:34] PROGOS test audio: interview at another company so I should tell the interviewer about it. What do you think?
+- [17:38 - 17:57] Aozawa: It's good if I were you I'm gonna apply some just some companies so don't pick my company without applying for other companies Company's job. So
+- [17:59 - 18:06] Aozawa: If you interested our company, please come. So if you have any questions, please call me or text me.
+- [18:11 - 18:14] PROGOS test audio: This is the end of the business speaking test. Thank you.
+- [18:18 - 18:19] Aozawa: That's it?
+- [18:20 - 18:21] Aozawa: Gosh.
+- [18:21 - 18:24] Dave: I think that's the end. Maybe you need to click show you what's in it.
+- [18:24 - 18:24] Aozawa: Hi.
+- [18:26 - 18:27] Aozawa: お疲れ様でした
+- [18:27 - 18:28] Dave: お疲れ様です
+- [18:29 - 18:30] Dave: very interesting
+- [18:33 - 18:34] Aozawa: やばいやばい
+- [18:35 - 18:37] Dave: what was difficult for you in that
+- [18:40 - 18:42] Aozawa: So there is a limit, so a
+- [18:42 - 18:42] Dave: A
+- [18:42 - 18:43] Aozawa: time limit,
+- [18:43 - 18:43] Dave: time limit.
+- [18:43 - 18:44] Aozawa: yeah, so
+- [18:44 - 18:44] Dave: Hmm.
+- [18:44 - 18:47] Aozawa: I can't come up with some good stuff.
+- [18:47 - 18:56] Dave: Have you ever taken like a speaking test like that, like the TOEIC speaking test or the Versant test by Pearson?
+- [18:57 - 18:57] Aozawa: No.
+- [18:57 - 19:03] Dave: No? Okay, interesting. Um, yeah, uh, I'll stop that.
+- [19:03 - 19:03] Aozawa: Okay.
