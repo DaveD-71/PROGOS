@@ -33,7 +33,10 @@ Direct test, report, workbook, transcript, and legal artifacts are the evidence 
 
 - Fixed prompts, timing, automated delivery, and a standard report format support consistent administration. They do **not** establish score reliability. `[REPORT-V1; V4-ISSUES; CHAT-272]`
 - Overall score reliability cannot be determined from the reviewed materials. No evidence was available on test–retest stability, form equivalence, measurement error, classification consistency, subscore reliability, or agreement between automated scores and qualified human ratings. The correct conclusion is “not established from the available evidence,” not “PROGOS is unreliable.” `[LEGAL-MAP; REPORT-V1; V4-ISSUES]`
-- Only one administration was observed at task level, so item or form reuse cannot be determined. Reuse of identical prompts would create familiarity and test-security risks, but the available evidence does not establish that such reuse occurs. `[ITEMS; AUDIO; V4-ISSUES]`
+- The second Aozawa administration on 2026-07-06 adds useful repeat-administration evidence but is not a controlled test-retest reliability study. The two administrations occurred five days apart, used different forms and topics, and the second administration included an external intervention by Dave during Part 5 preparation. The resulting comparison can show comparability and interpretation risks, but cannot isolate score reliability. `[AOZ2; ITEMS2; AUDIO2; REPORT-FINAL]`
+- Aozawa's score profile changed substantially between 2026-07-01 and 2026-07-06: Overall `A2 High` to `B1 High`; Range `B1` to `B2 and above`; Accuracy `A2` to `B1`; Fluency `B2 and above` to `B1`; Interaction `A2` to `B1`; Coherence `B1` to `B2 and above`; Phonology unchanged at `B1`. This does not prove unreliability, but it makes score-change interpretation and short-cycle pre/post use risky without measurement-error, form-equivalence, and minimum-meaningful-change guidance. `[AOZ; AOZ2; REPORT-FINAL]`
+- The 2026-07-06 Part 5 intervention is direct evidence that administration conditions can affect the task-comprehension problem identified in 2026-07-01. In 0701, Aozawa misunderstood the Communication Activity role across all four prompts. In 0706, Dave clarified the interpretation of `training attended` during preparation, and Aozawa's responses were more aligned with the intended employee-training scenario. This supports the judgment that Part 5 performance can be materially affected by task/role comprehension and administration conditions. `[AUDIO; AUDIO2; ITEMS; ITEMS2]`
+- With two observed Aozawa administrations, item or form reuse can be evaluated only narrowly for these two forms. The observed forms were not identical: Part 1 questions, Part 2 sentences, Part 3 topic, Part 4 graph, and Part 5 scenario differed. This reduces direct test-retest comparability and means the project still lacks official form-equivalence evidence. `[ITEMS; ITEMS2; AUDIO; AUDIO2]`
 - The reviewed materials do not explain how tasks contribute to the six analytic ratings, how those ratings are aggregated, or how the overall level is derived. This limits interpretation of both the overall result and differences among subscores. `[AOZ; SAKI; LEGAL-MAP]`
 - Do not frame the evaluation as verification or rebuttal of supposed PROGOS “claims.” The earlier discussion incorrectly attributed a series of claims to PROGOS—not only reliability or validity claims, but also proposed commercial claims about what the test measures, CEFR alignment, automated scoring, and identification of detailed abilities. The user explicitly rejected that entire claims-based line of argument as unsupported and irrelevant. The evaluation must instead state only what is directly observable in the test, reports, and captured documents, with an exact source for every attributed PROGOS statement. `[CHAT-233; CHAT-246; CHAT-247; CHAT-249]`
 
@@ -65,6 +68,7 @@ The completed workbook comparison for Aozawa established:
 
 - The Range wording makes B1 sound materially stronger than the official descriptor by replacing hesitation, circumlocution, repetition, and formulation difficulty with a statement of clear, direct, contextually appropriate expression across a wide range of topics. `[AOZ; CHAT-142]`
 - The Interaction wording has two separate problems: it does not match the selected official A2 descriptor as closely as the A2+ descriptor, and the test design does not give the candidate a real opportunity to lead or follow a jointly managed conversation. `[AOZ; ITEMS; AUDIO; CHAT-114]`
+- The completed workbook comparison for Aozawa 0706 established that Fluency, Interaction, and Phonology are acceptable same-competence matches, while Range, Accuracy, and Coherence align more closely with neighbouring workbook descriptors than with the reported/proxy level. Range `B2 and above` is closer to B2 General linguistic range than the B2+ proxy; Accuracy B1 wording is closer to B1+ because it explicitly mentions first-language influence; Coherence `B2 and above` is closer to B2 because it explicitly says a limited number of linking expressions. `[AOZ2; CEFR]`
 
 ### Diagnostic usefulness and individualisation
 
@@ -114,9 +118,12 @@ The completed workbook comparison for Aozawa established:
 ### Direct evidence and reference sources
 
 - `[AOZ]` `test reports/Aozawa/0701/report/PROGOS Aozawa's result_260701_evaluation_comments_bilingual.md`
+- `[AOZ2]` `test reports/Aozawa/0706/report/PROGOS Aozawa #2_0706_evaluation_comments_bilingual.md`
 - `[SAKI]` `test reports/Saki/PROGOS Saki's result_260630.md`
 - `[ITEMS]` `test reports/Aozawa/0701/screenshots/PROGOS_Aozawa_0701_test_items_parts_1_to_5.md`
+- `[ITEMS2]` `test reports/Aozawa/0706/screenshots/PROGOS_Aozawa_0706_test_items_parts_1_to_5.md`
 - `[AUDIO]` `test reports/Aozawa/0701/audio/PROGOS Aozawa 260701 audio transcript - test only cleaned.md`
+- `[AUDIO2]` `test reports/Aozawa/0706/audio/PROGOS Aozawa #2_0706 transcript.md`
 - `[CEFR]` `CEFR Descriptors_en.xlsx`
 - `[LEGAL-KIYAKU]` `output/playwright/progos-legal-page-snapshots/2026-07-03_progos_kiyaku_text.md`
 - `[LEGAL-PRIVACY]` `output/playwright/progos-legal-page-snapshots/2026-07-03_progos-ai_privacy_text.md`
