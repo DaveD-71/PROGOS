@@ -53,6 +53,8 @@ Direct test, report, workbook, transcript, and legal artifacts are the evidence 
 
 ### CEFR competence comparisons
 
+Because PROGOS public materials do not make clear when report comments are aligned to CEFR descriptors and when they are aligned to CEFR-J descriptors, alignment analysis must check both descriptor sets in parallel. Do not prioritise CEFR over CEFR-J or CEFR-J over CEFR. `[CEFR; CEFRJ-MATCH]`
+
 The completed workbook comparison for Aozawa established:
 
 | Competence | Reported rating | Same-competence, same-level match | Retained judgment |
@@ -69,6 +71,7 @@ The completed workbook comparison for Aozawa established:
 - The Range wording makes B1 sound materially stronger than the official descriptor by replacing hesitation, circumlocution, repetition, and formulation difficulty with a statement of clear, direct, contextually appropriate expression across a wide range of topics. `[AOZ; CHAT-142]`
 - The Interaction wording has two separate problems: it does not match the selected official A2 descriptor as closely as the A2+ descriptor, and the test design does not give the candidate a real opportunity to lead or follow a jointly managed conversation. `[AOZ; ITEMS; AUDIO; CHAT-114]`
 - The completed workbook comparison for Aozawa 0706 established that Fluency, Interaction, and Phonology are acceptable same-competence matches, while Range, Accuracy, and Coherence align more closely with neighbouring workbook descriptors than with the reported/proxy level. Range `B2 and above` is closer to B2 General linguistic range than the B2+ proxy; Accuracy B1 wording is closer to B1+ because it explicitly mentions first-language influence; Coherence `B2 and above` is closer to B2 because it explicitly says a limited number of linking expressions. `[AOZ2; CEFR]`
+- The CEFR-J descriptor check adds a parallel activity-level comparison. The clearest CEFR-J matches are the 2026-07-06 Overall Assessment, which closely resembles CEFR-J B1.2 spoken production with B1.1 spoken-interaction overlap, and the 2026-07-06 Interaction comment, which closely matches CEFR-J B1.1 spoken interaction. The 2026-07-01 Overall Assessment and Interaction comments show partial CEFR-J overlap. CEFR-J does not provide same-category analytic scales for Accuracy, Phonology, or Coherence, so those categories must not be forced into CEFR-J matches. `[AOZ; AOZ2; CEFRJ-MATCH]`
 
 ### Diagnostic usefulness and individualisation
 
@@ -96,7 +99,7 @@ The completed workbook comparison for Aozawa established:
 
 ## 5. Legal and governance evaluation
 
-- The current public pages are materially more informative than the older corporate privacy-management page. They identify voice data, monitoring-camera images, employer or service-provider disclosure in applicable contracts, outsourcing and re-outsourcing, international handling including Japan and the Philippines, and data-subject rights. `[LEGAL-MAP; LEGAL-PRIVACY; LEGAL-TERMS]`
+- The public pages captured on 2026-07-03 are materially more informative than the older corporate privacy-management page. They identify voice data, monitoring-camera images, employer or service-provider disclosure in applicable contracts, outsourcing and re-outsourcing, international handling including Japan and the Philippines, and data-subject rights. `[LEGAL-MAP; LEGAL-PRIVACY; LEGAL-TERMS]`
 - The privacy page states that personal data are retained indefinitely unless deletion is requested and then deleted within one month. This gives a deletion mechanism but leaves voice and monitoring data subject to open-ended default retention. `[LEGAL-PRIVACY]`
 - The terms allow anonymised statistical data derived from contract-related information to be used for future product or service development and sales activity. This is a documented secondary-use basis and should be disclosed in any governance summary rather than inferred as unspecified AI training. `[LEGAL-KIYAKU; LEGAL-MAP]`
 - The terms address some failures: an interrupted unmonitored test may resume from the interruption point, a monitored test restarts from the beginning, and re-examination following communication problems or applicant-attributable recording defects may require a new application and fee. These rules clarify contractual allocation of responsibility but do not show how often failures occur or whether the resulting treatment is fair in practice. `[LEGAL-TERMS]`
@@ -124,7 +127,9 @@ The completed workbook comparison for Aozawa established:
 - `[ITEMS2]` `test reports/Aozawa/0706/screenshots/PROGOS_Aozawa_0706_test_items_parts_1_to_5.md`
 - `[AUDIO]` `test reports/Aozawa/0701/audio/PROGOS Aozawa 260701 audio transcript - test only cleaned.md`
 - `[AUDIO2]` `test reports/Aozawa/0706/audio/PROGOS Aozawa #2_0706 transcript.md`
-- `[CEFR]` `CEFR Descriptors_en.xlsx`
+- `[CEFR]` `cefr/CEFR Descriptors_en.xlsx`
+- `[CEFRJ-DESC-EN]` `cefrj/descriptors/CEFR-J1.0Eng.pdf`
+- `[CEFRJ-DESC-JA]` `cefrj/descriptors/CEFR-J1.1Jap.pdf`
 - `[LEGAL-KIYAKU]` `output/playwright/progos-legal-page-snapshots/2026-07-03_progos_kiyaku_text.md`
 - `[LEGAL-PRIVACY]` `output/playwright/progos-legal-page-snapshots/2026-07-03_progos-ai_privacy_text.md`
 - `[LEGAL-TERMS]` `output/playwright/progos-legal-page-snapshots/2026-07-03_progos-ai_user-policy_text.md`
@@ -133,8 +138,9 @@ The completed workbook comparison for Aozawa established:
 
 ### Prior analysis and provenance sources
 
-- `[LEGAL-MAP]` `PROGOS_legal_evidence_map_2026-07-03.md`
+- `[LEGAL-MAP]` `analysis & reporting/PROGOS_legal_evidence_map_2026-07-03.md`
 - `[REPORT-V1]` `hold/PROGOS_test_evaluation_report.md`
-- `[REPORT-FINAL]` `PROGOS_test_evaluation_report_final.md`
+- `[REPORT-FINAL]` `analysis & reporting/PROGOS_test_evaluation_report_final.md`
+- `[CEFRJ-MATCH]` `analysis & reporting/PROGOS_CEFRJ_descriptor_matching_2026-07-29.md`
 - `[V4-ISSUES]` `hold/PROGOS_test_evaluation_report_v4_issues.md`
 - `[CHAT-n]` `tmp/chatgpt_share_raw.html`, message `n` in the saved linear conversation

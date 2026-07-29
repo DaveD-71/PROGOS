@@ -339,3 +339,11 @@ Sync rule:
 - Pattern: VS Code primary and secondary surfaces displayed different apparent font sizes
 - Decision: align configurable VS Code content fonts to the workbench's 13 px baseline
 - Preferred behavior: keep editor, SCM input, Markdown preview, notebook markup/output, Codex chat/chat code, debug console, and integrated terminal font-size settings at 13 unless the user requests a new global baseline
+
+### 2026-07-13T17:12:00+09:00 - Put Windows Paths With Parenthesized Folder Names In Code Blocks
+
+- Status: `workaround`
+- Scope: user/workflow
+- Pattern: reporting Windows paths containing folder names such as `(K) NCB` in Markdown
+- Failure: a single backslash before `(` can be rendered as a Markdown escape, hiding the path separator and making `Clients\(K) NCB` appear as `Clients(K) NCB`
+- Preferred behavior: when reporting local Windows paths, especially client paths containing parenthesized folder names, put the whole path in a fenced code block or otherwise escape the backslashes so separators remain visible
